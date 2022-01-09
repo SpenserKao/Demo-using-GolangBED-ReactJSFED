@@ -13,6 +13,6 @@ Using command line run command _**go run server.go**_ and open url **http://loca
 
 ## Expected Result
 Upon seccesufl exection, should see following heading 1 and message below:<br/>
-<font size="6">Welcome to the Golang app</font>
+**<font size="8">Welcome to the Golang app</font>**
 
 <p>Using Golang as server while ReactJS frontend!</p>
