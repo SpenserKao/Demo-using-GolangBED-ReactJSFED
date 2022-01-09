@@ -11,3 +11,8 @@ Run-time libraries, version 16.0 of reactJS and react-dom, will be downloaded at
 ## Execution
 Using command line run command _**go run server.go**_ and open url **http://localhost:8080/** in any browser.
 
+## Expected Result
+Upon seccesufl exection, should see following heading 1 and message below:
+<large>Welcome to the Golang app</large>
+
+*Using Golang as server while ReactJS frontend!*
