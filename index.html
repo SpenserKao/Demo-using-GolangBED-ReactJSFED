@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+	<script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>    
+</head>
+<body>
+	<div id="root"></div>
+	<script type="text/javascript">
+		ReactDOM.render(
+			React.createElement('H1', null, 'Welcome to the Golang app'), 
+			document.getElementById('root')
+		)
+	</script>
+	<div id="p"></div>
+	<script type="text/javascript">
+		ReactDOM.render(		
+			React.createElement('p', null, 'Using Golang as server while ReactJS frontend!'),            
+			document.getElementById('p')
+		)
+	</script>    
+</body>
+</html>
